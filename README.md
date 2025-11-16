@@ -20,7 +20,7 @@ A complete Remote Spy with an incredible parser that captures incoming and outgo
 ## Loadstring
 ```lua
 --// Sigma Spy - Reupload by Dexz00
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Dexz00/Sigma-Spy/main/Main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Robloxexploiter691/Sigma-Spy/refs/heads/main/Main.lua"))()
 ```
 
 ## What was changed in this reupload 🔧
