@@ -28,7 +28,7 @@
 
 local a={UseWorkspace=false,NoActors=false,FolderName='Sigma Spy',RepoUrl=
 'https://raw.githubusercontent.com/Robloxexploiter691/Sigma-Spy/main',ParserUrl=
-[[https://raw.githubusercontent.com/depthso/Roblox-parser/refs/heads/main/dist/Main.luau]]
+[[https://raw.githubusercontent.com/Robloxexploiter691/Roblox-parser/refs/heads/main/dist/Main.luau]]
 }local b={
 ...}local c=b[1]if typeof(c)=='table'then for d,e in c do a[d]=e end end local d
 =setmetatable({},{__index=function(d,e)local f=game:GetService(e)return
