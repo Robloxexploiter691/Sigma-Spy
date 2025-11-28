@@ -6,8 +6,8 @@ This is a **REUPLOAD** of the original Sigma Spy created by **depso (depthso)**.
 
 **Original Author:** depso (depthso)  
 **Original Repository:** https://github.com/depthso (deleted)  
-**Reupload & Bug Fixes:** Dexz00  
-**This Repository:** https://github.com/Dexz00/Sigma-Spy
+**Reupload & Bug Fixes:** Dexz00  (credits to him)
+**This Repository:** https://github.com/Robloxexploiter691/Sigma-Spy
 
 ---
 
