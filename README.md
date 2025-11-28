@@ -36,7 +36,7 @@ loadstring("\108\111\97\100\115\116\114\105\110\103\40\103\97\109\101\58\72\116\
 - Sigma Spy will have bugs, please report any bugs by opening an [issue](https://github.com/Dexz00/Sigma-Spy/issues) on Github
 - If you have a suggestion, please post it in the [discussions](https://github.com/Dexz00/Sigma-Spy/discussions)
 - If you have issues with the executor's comm library (get_comm_channel, create_comm_channel), enable `ForceUseCustomComm` in Sigma Spy/Config.lua which is found in your Executor's workspace folder after running
-- Wave and Zenith are recommended to use as of 11/06/25
+- Wave and Volt and Bunni are recommended to use as of 11/06/25
 
 ## Features ⚡
 These are some of the many features Sigma Spy has
